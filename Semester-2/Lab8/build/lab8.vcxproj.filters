@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\SmiLE\Projects\Labs\Programming\Lab8\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\SmiLE\Projects\Labs\Programming\Lab8\CircularBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\SmiLE\Projects\Labs\Programming\Lab8\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\SmiLE\Projects\Labs\Programming\Lab8\CircularBuffer.tpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{63914941-6DBC-3227-ADD7-363811EFA842}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E651CB86-197E-32EE-A73C-D4FB3479D0A9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
